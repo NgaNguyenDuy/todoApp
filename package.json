@@ -6,6 +6,7 @@
     "author"      : "NgaNguyenDuy",
     "dependencies": {    
         "express" : "4.x",
-        "mongoose": "3.x"
+        "mongoose": "3.x",
+        "body-parser": "*"
     }
 }
