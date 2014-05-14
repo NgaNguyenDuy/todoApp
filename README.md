@@ -1,7 +1,7 @@
-# Single page application with Node and Angular
+## Single page application with Node and Angular
 
 ---
-#### Today we will be creating a very simple Todo application using the MEAN (Mongo, Express, Angular, Node) stack. We will be creating:
+1. Today we will be creating a very simple Todo application using the MEAN (Mongo, Express, Angular, Node) stack. We will be creating:
 + SPA - Single page application
 + Storing todo in mongodb using Mongoose
 + Using Express frameword
@@ -9,6 +9,6 @@
 + Using Angular for the fontend and to access the API.
 
 
-#### To run:
+2. To run:
 `node server`
 
