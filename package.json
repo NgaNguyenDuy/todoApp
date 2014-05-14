@@ -1,0 +1,11 @@
+{
+    "name"        : "Node-todo",
+    "version"     : "0.0.0",
+    "description" : "Simple todo application",
+    "main"        : "server.js",
+    "author"      : "NgaNguyenDuy",
+    "dependencies": {    
+        "express" : "4.x",
+        "mongoose": "3.x"
+    }
+}
